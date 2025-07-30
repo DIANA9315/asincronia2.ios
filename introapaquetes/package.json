@@ -1,0 +1,16 @@
+{
+  "name": "intro-a-paquetes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+"start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diana",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "number-to-text": "^0.4.1",
+    "numero-a-letras": "^1.0.6"
+  }
+}
