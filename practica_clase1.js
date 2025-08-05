@@ -5,6 +5,7 @@ let ordenId = 1;
 const pedidos = {}; // Para gestión interna
 
 
+
 /** Agrega visualmente un nuevo pedido. */
 function agregarPedidoVisual(orden) {
     pedidos[orden.id] = orden;
